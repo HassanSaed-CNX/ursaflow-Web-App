@@ -1,0 +1,9 @@
+{
+  "name": "ursaflow-hydraulics",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "lint": "echo 'lint not configured'",
+    "format": "echo 'format not configured'"
+  }
+}
